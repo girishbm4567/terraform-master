@@ -1,2 +1,2 @@
-# terraform-master
-To learn terraform
+# terraform
+Terraform code files and resources
